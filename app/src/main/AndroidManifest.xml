@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="edu.memory.game.memorygame">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
 
     <application
         android:allowBackup="true"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="edu.memory.game.memorygame.MainActivity" />
-        <activity android:name="edu.memory.game.memorygame.StarterActivity">
+        <activity android:name="edu.memory.game.memorygame.MainActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".StarterActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".WebActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="edu.memory.game.memorygame.Result"></activity>
-        <activity android:name="edu.memory.game.memorygame.HighscoreActivity"></activity>
+        <activity android:name="edu.memory.game.memorygame.Result"
+            tools:ignore="Instantiatable"></activity>
+        <activity android:name="edu.memory.game.memorygame.HighscoreActivity"
+            tools:ignore="Instantiatable"></activity>
     </application>
 
 </manifest>

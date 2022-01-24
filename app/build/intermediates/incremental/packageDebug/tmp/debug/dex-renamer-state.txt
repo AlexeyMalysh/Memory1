@@ -1,4 +1,4 @@
-#Mon Jan 24 12:11:56 MSK 2022
-base.0=/Users/uhome/Downloads/MemoryGame/app/build/intermediates/transforms/dexMerger/debug/0
+#Mon Jan 24 12:59:30 MSK 2022
+base.0=/Users/uhome/AndroidStudioProjects/Memory/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/uhome/Downloads/MemoryGame/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/uhome/AndroidStudioProjects/Memory/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/uhome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9c57a5bc3f1a46be46fc5adfc16b1bd5/res/values-port/values-port.xml",
+                    "source": "/Users/uhome/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/e8ae472b944988e83d3d0e13afb390b1/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
