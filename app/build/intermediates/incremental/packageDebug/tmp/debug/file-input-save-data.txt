@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 24 12:11:57 MSK 2022
+0.base=/Users/uhome/Downloads/MemoryGame/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

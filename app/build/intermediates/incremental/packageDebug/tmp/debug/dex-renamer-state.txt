@@ -1,0 +1,4 @@
+#Mon Jan 24 12:11:56 MSK 2022
+base.0=/Users/uhome/Downloads/MemoryGame/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
